@@ -1,2 +1,2 @@
 # Sociopulse
-![Team](https://github.com/boriya123/sociopulse/blob/master/design%20files_ai%20files/linkedin%20%23buildwithai%408x-100.jpg)
+![Team](/designfiles_aifiles/linkedin #buildwithai@8x-100.jpg)
